@@ -7,7 +7,7 @@
   color: #CC4B4F;
 }
 .background-img{
-    background-image: url('images/bg-pic.webp');
+    background-image: url('../images/bg-pic.webp');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
